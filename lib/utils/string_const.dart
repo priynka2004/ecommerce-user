@@ -1,0 +1,13 @@
+const String userDetails = "userDetails";
+const String username = "Username";
+const String password = "Password";
+const String favoriteProducts = "favoriteProducts";
+const String enterUserName = "Please enter username";
+const String enterPassword = "Please enter password";
+const String login = "Login";
+const String title = "Title";
+const String price = "Price";
+const String category = "Category";
+const String favorite = "Favorite";
+const String products = "Products";
+const String productDetail = "Product Detail";
